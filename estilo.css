@@ -1,6 +1,12 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
 h1{
     font-size: 40px;
     color: rgb(255, 0, 0);
+}
+.principal{
     background-image: url(./img/GLOBO.png);
-    
 }
