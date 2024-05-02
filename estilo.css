@@ -13,12 +13,16 @@
 body{
     background-color: var(--botao-secundario);
     color: var(--cor-texto-principal);
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .principal{
     background-image: url(./img/GLOBO.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    text-align: center;
+    align-items: end;
 }
 .container{
     height: 100vh;
@@ -29,10 +33,19 @@ body{
 .container--botao{
     background-color: var(--botao-principal);
     color: var(--cor-texto-principal);
-    padding: 1em;
-    border-radius: 5px;
+    padding: 2em;
+    border-radius: 10px;
     text-decoration: none;
     display: block;
-    margin-bottom: 2em;
+    margin: 2%;
 }
 
+.botao--secundario{
+   background-color: transparent; 
+   border: 2px solid var (var(--botao-secundario));
+   color; var (--botao-secundario );
+   margin: 2%;
+}
+.caixa--container{
+margin: 0 6em;
+}
