@@ -1,5 +1,3 @@
-
-{
 :root{
     --cor-texto-principal: #ffffff;
     --cor-texto-secundario: #c0c0c0;
@@ -7,8 +5,6 @@
     --botao-secundario: #8B0000;
 }
      
-
-
 {
     margin: 0;
     padding: 0;
@@ -25,7 +21,16 @@ body{
     background-size: contain;
 }
 .container{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 
 }
-
+.container--botao{
+    background-color: var(--botao-principal);
+    color: var(--cor-texto-principal);
+    padding: 1em;
+    border-radius: 5px;
+    text-decoration: none;
 }
+
