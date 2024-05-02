@@ -1,3 +1,5 @@
+
+{
 :root{
     --cor-texto-principal: #ffffff;
     --cor-texto-secundario: #c0c0c0;
@@ -22,4 +24,8 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
 }
+.container{
 
+}
+
+}
