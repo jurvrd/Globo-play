@@ -1,9 +1,10 @@
-:root[
-    --cor-texto-principal: 
-]
-
-
-
+:root{
+    --cor-texto-principal: #ffffff;
+    --cor-texto-secundario: #c0c0c0;
+    --botao-principal: #FF0000;
+    --botao-secundario: #8B0000;
+}
+     
 
 
 {
@@ -11,10 +12,14 @@
     padding: 0;
 }
 
-
+body{
+    background-color: var(--botao-secundario);
+    color: var(--cor-texto-principal);
+}
 
 .principal{
     background-image: url(./img/GLOBO.png);
     background-repeat: no-repeat;
     background-size: contain;
 }
+
