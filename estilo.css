@@ -29,13 +29,17 @@ body{
     height: 100vh;
     
 }
+.botoes {
+margin-top: 500px;
+
+}
 .container--botao{
     background-color: var(--botao-principal);
     color: var(--cor-texto-principal);
     padding: 1em;
     border-radius: 5px;
     text-decoration: none;
-    margin-top: 500px;
+    
 }
 
 .botao--secundario{
