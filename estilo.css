@@ -23,13 +23,11 @@ body{
     background-repeat: no-repeat;
     background-size: contain;
     text-align: center;
-    align-items: end;
+    align-items: center;
 }
 .container{
     height: 100vh;
-    display: grid;
-    grid-template-columns: 50% 50%;
-
+    
 }
 .container--botao{
     background-color: var(--botao-principal);
