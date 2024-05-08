@@ -5,7 +5,7 @@
     --botao-secundario: #000000;
 }
      
-{
+*{
     margin: 0;
     padding: 0;
 }
@@ -42,7 +42,7 @@ body{
 .botao--secundario{
    background-color: transparent; 
    border: 2px solid var (var(--botao-secundario));
-   color; var (--botao-secundario );
+   color: var (--botao-secundario );
    margin: 2%;
 }
 .caixa--container{
