@@ -21,7 +21,7 @@ body{
 .principal{
     background-image: url(./img/GLOBO.png);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     text-align: center;
     align-items: end;
 }
