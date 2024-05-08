@@ -34,8 +34,8 @@ body{
 .container--botao{
     background-color: var(--botao-principal);
     color: var(--cor-texto-principal);
-    padding: 2em;
-    border-radius: 10px;
+    padding: lem;
+    border-radius: 5px;
     text-decoration: none;
     display: block;
     margin: 2%;
