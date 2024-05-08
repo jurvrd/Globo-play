@@ -18,7 +18,7 @@ body{
     font-style: oblique;
 }
 .titulo{
-    margin-top: 300px;
+    margin-top: 0;
 }
 .principal{
     background-image: url(./img/GLOBO.png);
