@@ -18,7 +18,7 @@ body{
     font-style: italic;
 }
 .titulo{
-    margin-top: 200;
+    padding: 200px;
 }
 .principal{
     background-image: url(./img/GLOBO.png);
@@ -32,7 +32,7 @@ body{
     
 }
 .botoes {
-margin-top: 800px;
+margin-top: 500px;
 
 }
 .container--botao{
