@@ -58,6 +58,8 @@ margin: 0 6em;
 
 }
 .secundario{
-    align: center;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
     margin: 0 10em;
 }
