@@ -53,3 +53,11 @@ margin-top: 300px;
 .caixa--container{
 margin: 0 6em;
 }
+.container--img {
+ margin: 1em 0 2em 0;   
+
+}
+.secundario{
+    align: center;
+    margin: 0 10em;
+}
